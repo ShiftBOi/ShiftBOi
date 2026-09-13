@@ -14,14 +14,11 @@
 
 <div align="center">
 
-### About Me
+### 🎓 About Me
 
-**BANGKOK UNIVERSITY**  
-School of Information Technology and Innovation  
-Computer Science Major
+💼 **BANGKOK UNIVERSITY 【バンコク大学】** 💎  
 
-**Rapeepong Apichanakulchai (Riw)** · **ShiftBOi**  
-Fullstack Developer · Designer · Software Engineer · Bangkok, Thailand
+School of Information Technology and Innovation Computer Science Major
 
 </div>
 
