@@ -51,17 +51,18 @@ School of Information Technology and Innovation Computer Science Major
 
 <div align="center">
 
-<a href="mailto:rapeepongapic@gmail.com">
-  <img src="https://img.shields.io/badge/Email-rapeepongapic%40gmail.com-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://github.com/ShiftBOi">
-  <img src="https://img.shields.io/badge/GitHub-ShiftBOi-7C3AED?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
+### 📫 Let's Connect!
+
+✉️ **Email:** [rapeepongapic@gmail.com](mailto:rapeepongapic@gmail.com)
+
+<br />
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rapeepongapic@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShiftBOi)
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=ShiftBOi&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ShiftBOi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
