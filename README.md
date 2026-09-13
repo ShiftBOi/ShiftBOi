@@ -16,7 +16,7 @@
 
 ### 🎓 About Me
 
-💼 **BANGKOK UNIVERSITY 【バンコク大学】** 💎  
+💼 **BANGKOK UNIVERSITY** 💎  
 
 School of Information Technology and Innovation Computer Science Major
 
