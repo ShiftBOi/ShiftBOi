@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <p align="center">
-  <img src="./header.png" alt="ShiftBOi" width="100%" />
+  <img src="header.png" alt="ShiftBOi" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./divider.png" alt="" width="100%" />
+  <img src="divider.png" width="100%" alt="" />
 </p>
 
 <div align="center">
@@ -27,7 +26,7 @@ Fullstack Developer · Designer · Software Engineer · Bangkok, Thailand
 </div>
 
 <p align="center">
-  <img src="./divider.png" alt="" width="100%" />
+  <img src="divider.png" width="100%" alt="" />
 </p>
 
 ## Tech Stack
@@ -47,7 +46,7 @@ Fullstack Developer · Designer · Software Engineer · Bangkok, Thailand
 <br />
 
 <p align="center">
-  <img src="./divider.png" alt="" width="100%" />
+  <img src="divider.png" width="100%" alt="" />
 </p>
 
 <div align="center">
@@ -67,5 +66,5 @@ Fullstack Developer · Designer · Software Engineer · Bangkok, Thailand
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=80&section=footer" alt="" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=80&section=footer" width="100%" alt="" />
 </p>
